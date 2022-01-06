@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1594649410 source:c:\users\rohith ram\desktop\hari\oops\ds_package\main.cpp
+	<iostream>
+	<windows.h>
+	"structures.h"
+	"trie.h"
+	"files.h"
+
+1591826579 c:\users\rohith ram\desktop\hari\oops\ds_package\trie.h
+	<string.h>
+	<ctype.h>
+	"structures.h"
+
+1594917291 c:\users\rohith ram\desktop\hari\oops\ds_package\files.h
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdio.h>
+	"history.h"
+	"trie.h"
+
+1594639897 c:\users\rohith ram\desktop\hari\oops\ds_package\structures.h
+	<string.h>
+	<ctype.h>
+
+1594751987 c:\users\rohith ram\desktop\hari\oops\ds_package\history.h
+	<iostream>
+
